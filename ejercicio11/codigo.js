@@ -1,3 +1,4 @@
+//Devuelve valor aleatorio entre min y max
 function getRandomArbitrary(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
